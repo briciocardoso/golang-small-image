@@ -23,9 +23,12 @@ Compartilhe o link do repositório do Git remoto para corrigirmos seu projeto.
 Divirta-se!
 
 ## Passos
-1- Foi criado o codigo em golang
-2- Foi criada uma imagem para realizar o build do arquivo em golang e gerar o executavel
-3- Foi criada uma imagem menor e copiado o arquivo executavel da imagem de builder
+
+1- Foi criado o codigo em golang.
+
+2- Foi criada uma imagem para realizar o build do arquivo em golang e gerar o executavel.
+
+3- Foi criada uma imagem menor e copiado o arquivo executavel da imagem de builder.
 
 ## Docker login
 
